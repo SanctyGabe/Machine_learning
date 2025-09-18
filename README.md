@@ -19,7 +19,7 @@ para distinguir entre as duas classes.
 -   Matplotlib\
 -   Seaborn\
 -   Scikit-learn
-[apples_or_tomatoes.zip.zip](https://github.com/user-attachments/files/22407491/apples_or_tomatoes.zip.zip)
+-   [apples_or_tomatoes.zip](https://github.com/user-attachments/files/22407491/apples_or_tomatoes.zip.zip)
 ------------------------------------------------------------------------
 
 ## 📂 Estrutura do dataset
